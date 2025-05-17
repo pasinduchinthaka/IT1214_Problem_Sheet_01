@@ -1,3 +1,5 @@
-class student{
-    //java
+class Student{
+    public Static void main(String[] args){
+        System.out.println("Hello");
+    }
 }
